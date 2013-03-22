@@ -1,0 +1,24 @@
+Version 1.0: IT LIVESSSSS
+	- Added everything.
+	- Used rapidxml nodes as the tree.
+	BUGS:
+		- Searching did not work 100%
+		- Common lineage was not implemented
+		
+Version 1.1: If this were Python, I'd just be using 'import jeffsanswer'
+	- Added my own tree and node classes.
+	- Added lineage and common lineage for those classes.
+	BUGS:
+		- Anything past the 'Human' node would have an incorrect lineage
+
+Version 1.2: Node City, babe, Node Node City babe
+	- "Small" (but huge) fix for bug in 1.1.
+	- Took out debug statements.
+	- Comments in main.cpp!
+	BUGS:
+		- Most, if not all, lineages seem to have an extra "sibling" node added to parent
+		
+Version 2.0: Stacks on stacks on stacks!
+	- Fixed bug in version 1.2
+	BUGS:
+		- None found!
