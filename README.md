@@ -6,3 +6,5 @@ Takes in a species.xml file and allows users to perform various search operation
 The parsing uses RapidXML which can be found here: http://rapidxml.sourceforge.net/
 
 No idea exactly where the species.xml file came from originally, but was given to us by our Data Structures professor whose page can be found here: http://cise.ufl.edu/~jdepree
+
+This is likely the last commit.
